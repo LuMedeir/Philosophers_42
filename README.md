@@ -8,8 +8,8 @@
 ## Description  
 With this project, I learned about concurrency and synchronization in operating systems, and how to deal with issues related to parallel programming and resource sharing in multithreaded environments.
 
- - Philosophers challenge
-The philosophers challenge is a classic concurrency problem in operating systems. It involves a scenario where several philosophers are seated at a round table with food plates between them. There is a shared fork between each pair of adjacent philosophers. To eat, a philosopher needs two forks. However, they can only pick up the forks to their left and right. The challenge is to ensure that the philosophers do not deadlock, where each philosopher has one fork and is waiting for the other. This requires synchronization techniques to prevent conflicts in accessing shared resources (forks) and ensure that all philosophers have the opportunity to eat.
+ # Philosophers challenge
+ - The philosophers challenge is a classic concurrency problem in operating systems. It involves a scenario where several philosophers are seated at a round table with food plates between them. There is a shared fork between each pair of adjacent philosophers. To eat, a philosopher needs two forks. However, they can only pick up the forks to their left and right. The challenge is to ensure that the philosophers do not deadlock, where each philosopher has one fork and is waiting for the other. This requires synchronization techniques to prevent conflicts in accessing shared resources (forks) and ensure that all philosophers have the opportunity to eat.
 
 ## Makefile rules
 
