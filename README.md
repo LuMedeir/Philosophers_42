@@ -1,4 +1,4 @@
-# Philosophers
+# Philosophers 🍴
 <p align="center">
 <img src="./philosopherse.png">
 </p>
